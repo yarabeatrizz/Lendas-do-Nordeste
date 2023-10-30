@@ -1,5 +1,64 @@
 # RepositorioTemplate
 
+Este repositório é destinado a ser usado como um template inicial para a página inicial do Projeto. Outras diretrizes sobre a organização da wiki estão disponíveis no Moodle Aprender 3. **Atenção: Renomeie o seu repositório para (Ano.Semestre)(Grupo)(NomeDoProjeto). 
+
+(Apague esta seção)
+
+# NomedoProjeto
+**Número do Grupo:** XX
+**Disciplina:** xx
+**Professor:** xx
+
+
+## Alunos
+| Matrícula   | Aluno             |
+|-------------|-------------------|
+| xx/xxxxxx   | xxxx xxxx xxxxx  |
+| xx/xxxxxx   | xxxx xxxx xxxxx  |
+
+## Sobre
+Descrição geral do seu projeto.
+
+## Screenshots
+![Screenshot 1](URL_da_Imagem_1)
+![Screenshot 2](URL_da_Imagem_2)
+![Screenshot 3](URL_da_Imagem_3)
+
+## Instalação
+**Linguagens:** xxxxxx
+**Tecnologias:** xxxxxx
+
+Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários. Insira um manual ou um script para auxiliar ainda mais.
+
+## Uso
+Explique como usar o seu projeto, caso haja algum passo a passo após o comando de execução.
+
+## Vídeo
+Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
+
+## Principal(is) Metodologia(s) Adotada(s)
+- Exemplo.: Scrum
+
+## Principais Linguagens Utilizadas e/ou Pretendidas
+- Exemplo.:JavaScript
+- Exemplo.: Python
+
+## Principais Tecnologias Utilizadas e/ou Pretendidas
+- Exemplo: React
+- Exemplo: Django
+
+## Principal(is) Estilo(s) Arquitetural(is) Adotado(s)
+- Exemplo: MTV - Model Template View
+
+## O Projeto está rodando?
+( ) SIM (x) NÃO
+
+
+
+
+
+## RepositorioTemplate
+
 Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de **Engenharia de Software III** (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo **Prof. Cleber Araújo**.
 
 ## Introdução
