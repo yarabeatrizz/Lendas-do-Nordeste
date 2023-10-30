@@ -1,4 +1,4 @@
-<img src="./img/cafe" width="100" height="100">
+<img src="./img/ifpi" width="120" height="120">
 # Sobre
 
 Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório do Github), contém toda a documentação do   projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
