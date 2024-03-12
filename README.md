@@ -1,65 +1,51 @@
-# RepositorioTemplate
+# Projeto NomedoProjeto
+**Instituto Federal do Piauí - Campus Pedro II
+**Número do Grupo:** XX  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Módulo:** III
+**Disciplina:** Engenharia de Software I  
+**Professor:** Cleber Araújo  
 
-Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de Engenharia de Software III (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo Prof. Cleber Araújo. **Atenção: Renomeie o seu repositório para (Ano.Semestre)(Grupo)(NomeDoProjeto).** 
+## Equipe de Desenvolvimento
 
-(Apague esta seção)
+| Matrícula   | Aluno             | Função| 
+|-------------|-------------------|-------|
+| xx/xxxxxx   | xxxx xxxx xxxxx  |xxxxxxx|
+| xx/xxxxxx   | xxxx xxxx xxxxx  |xxxxxx|
 
-# NomedoProjeto
-**Número do Grupo:** XX
-**Disciplina:** xx
-**Professor:** xx
+## Visão Geral do Projeto
+Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
 
+## Objetivos do Projeto
+Defina claramente os objetivos que você espera alcançar com o desenvolvimento do jogo. Isso pode incluir metas de mercado, experiência do usuário ou características específicas do jogo.
 
-## Alunos
-| Matrícula   | Aluno             |
-|-------------|-------------------|
-| xx/xxxxxx   | xxxx xxxx xxxxx  |
-| xx/xxxxxx   | xxxx xxxx xxxxx  |
+## Principal(is) Metodologia(s) Adotada(s)
+- Exemplo.: Scrum
 
-## Sobre
-Descrição geral do seu projeto.
+## Metodologia Scrum
+Explicação breve sobre como a metodologia Scrum está sendo aplicada no desenvolvimento do jogo. Isso pode incluir detalhes sobre sprints, reuniões diárias, revisões de sprint, etc.
+
+## Principais Tecnologias Utilizadas e/ou Pretendidas
+- Exemplo: React
+- Exemplo: Django
+
+## Cronograma de Desenvolvimento
+Apresente uma visão geral do cronograma do projeto, destacando as sprints planejadas, marcos importantes e as entregas esperadas.
+
+## Recursos Necessários
+Liste os recursos necessários para o desenvolvimento, incluindo recursos humanos, materiais, financeiros, etc.
+
+## Desafios Antecipados
+Identifique desafios que você antecipa ao longo do desenvolvimento e como planeja enfrentá-los.
+
+## O Projeto está rodando?
+( ) SIM (x) NÃO
 
 ## Screenshots
 ![Screenshot 1](URL_da_Imagem_1)
 ![Screenshot 2](URL_da_Imagem_2)
 ![Screenshot 3](URL_da_Imagem_3)
 
-## Instalação
-**Linguagens:** xxxxxx
-**Tecnologias:** xxxxxx
-
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários. Insira um manual ou um script para auxiliar ainda mais.
-
-## Uso
-Explique como usar o seu projeto, caso haja algum passo a passo após o comando de execução.
-
-## Vídeo
-Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
-
-## Principal(is) Metodologia(s) Adotada(s)
-- Exemplo.: Scrum
-
-## Principais Linguagens Utilizadas e/ou Pretendidas
-- Exemplo.:JavaScript
-- Exemplo.: Python
-
-## Principais Tecnologias Utilizadas e/ou Pretendidas
-- Exemplo: React
-- Exemplo: Django
-
-## Principal(is) Estilo(s) Arquitetural(is) Adotado(s)
-- Exemplo: MTV - Model Template View
-
-## O Projeto está rodando?
-( ) SIM (x) NÃO
-
-
-
-
-
-## RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de **Engenharia de Software III** (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo **Prof. Cleber Araújo**.
 
 ## Introdução
 
