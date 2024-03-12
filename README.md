@@ -1,4 +1,4 @@
-# Projeto NomedoProjeto
+# Game Design Document (GDD) do Jogo -----
 
 **Instituto Federal do Piauí - Campus Pedro II**
 
