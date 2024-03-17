@@ -14,7 +14,7 @@
 |-----------------|-------------------|--------------------------|
 | 2023123TADS0040 | Ana Luiza         | Product Master           |
 | 2023123TADS0005 | Esmeralda         | Product Master(auxiliar) |
-| 2023123TADS0015 | Maithe Vitoria    | Áudio visual             |
+| 2023123TADS0015 | Maithe Vitoria    | Sound Designer           |
 | 2023123TADS0041 | Pedro Barroso     | Designer; Desenvolvedor 1|
 | 2023123TADS0003 | Valdemiro         | Designer; Desenvolvedor 2|
 | 2023123TADS0037 | Yara Beatriz      | Document Writer          |
