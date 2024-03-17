@@ -1,29 +1,32 @@
-# Game Design Document (GDD) do Jogo -----
+# Game Design Document (GDD) do Jogo Lendas do Nordeste
 
 **Instituto Federal do Piauí - Campus Pedro II**
 
 **Número do Grupo:** XX  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Módulo:** III
-**Disciplina:** Engenharia de Software I  
+**Disciplina:** Engenharia de Software II 
 **Professor:** Cleber Araújo  
 
 ## Equipe de Desenvolvimento
 
-| Matrícula       | Aluno             | Função                  | 
-|-----------------|-------------------|-------------------------|
-| 2023123TADS0040 |     Ana Luiza     |      Product Master     |
-| 2023123TADS0005 |     Esmeralda     | Product Master(auxiliar)|
-| 2023123TADS0015 |   Maithe Vitoria  |       Áudio visual      |
-| 2023123TADS0041 |   Pedro Barroso   |Designer; Desenvolvedor 1|
-| 2023123TADS0003 |     Valdemiro     |Designer; Desenvolvedor 2|
-| 2023123TADS0037 |   Yara Beatriz    |      Document Writer    |
+| Matrícula       | Aluno             | Função                   | 
+|-----------------|-------------------|--------------------------|
+| 2023123TADS0040 | Ana Luiza         | Product Master           |
+| 2023123TADS0005 | Esmeralda         | Product Master(auxiliar) |
+| 2023123TADS0015 | Maithe Vitoria    | Áudio visual             |
+| 2023123TADS0041 | Pedro Barroso     | Designer; Desenvolvedor 1|
+| 2023123TADS0003 | Valdemiro         | Designer; Desenvolvedor 2|
+| 2023123TADS0037 | Yara Beatriz      | Document Writer          |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
 
 ## Objetivos do Projeto
-Regastar Maria Bonita e restaurar o sossego derrotando todas as lendas
+- Regastar Maria Bonita e restaurar o sossego derrotando todas as lendas(principal)
+- Passar de fase
+- Derrrotar os inimigos
+- Pegar os itens coletaveis
 
 ## Principal(is) Metodologia(s) Adotada(s)
 - Exemplo.: Scrum
@@ -32,10 +35,16 @@ Regastar Maria Bonita e restaurar o sossego derrotando todas as lendas
 Explicação breve sobre como a metodologia Scrum está sendo aplicada no desenvolvimento do jogo. Isso pode incluir detalhes sobre sprints, reuniões diárias, revisões de sprint, etc.
 
 ## Principais Tecnologias Utilizadas e/ou Pretendidas
-- Exemplo: React
-- Exemplo: Django
+- Trello
+- Construct 3
+- MKDOCS
 
 ## Cronograma de Desenvolvimento
+|**SPRINT 0**                | **SPRINT 1**                      | **SPRINT 2**             | **SPRINT 3**       | **SPRINT 4**       | **ENTREGA**                     |
+|----------------------------|-----------------------------------|--------------------------|--------------------|--------------------|---------------------------------|
+|Tema do jogo                |Roteiro                            |Backgrounds(imagens/tiles)|Implementação part.1|Implementação part.2|Descrições/demostração           |
+|Objetivos(geral, especifico)|Sprites(imagens/personagens/objetos|                          |                    |                    |Criterios(documentação/feedbacks)|
+|Historia                    |                                   |                          |                    |                    |Lancamento no III Opala Tec      |
 Apresente uma visão geral do cronograma do projeto, destacando as sprints planejadas, marcos importantes e as entregas esperadas.
 
 ## Recursos Necessários
