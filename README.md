@@ -45,7 +45,6 @@ Explicação breve sobre como a metodologia Scrum está sendo aplicada no desenv
 |Tema do jogo                |Roteiro                            |Backgrounds(imagens/tiles)|Implementação part.1|Implementação part.2|Descrições/demostração           |
 |Objetivos(geral, especifico)|Sprites(imagens/personagens/objetos|                          |                    |                    |Criterios(documentação/feedbacks)|
 |Historia                    |                                   |                          |                    |                    |Lancamento no III Opala Tec      |
-Apresente uma visão geral do cronograma do projeto, destacando as sprints planejadas, marcos importantes e as entregas esperadas.
 
 ## Recursos Necessários
 Liste os recursos necessários para o desenvolvimento, incluindo recursos humanos, materiais, financeiros, etc.
