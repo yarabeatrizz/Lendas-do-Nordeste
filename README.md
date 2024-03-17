@@ -11,13 +11,13 @@
 ## Equipe de Desenvolvimento
 
 | Matrícula       | Aluno             | Função| 
-|-----------------|-------------------|-------|
-| 2023123TADS00xx | Ana Luiza         |xxxxxxx|
-| 2023123TADS00xx | Esmeralda         |xxxxxxx|
-| 2023123TADS00xx | Maithe Vitoria    |xxxxxxx|
-| 2023123TADS00xx | Pedro Barroso     |xxxxxxx|
-| 2023123TADS00xx | Valdemiro         |xxxxxxx|
-| 2023123TADS0037 | Yara Beatriz      |xxxxxx |
+|-----------------|-------------------|-------------------------|
+| 2023123TADS0040 | Ana Luiza         |Product Master           |
+| 2023123TADS0005 | Esmeralda         |Product Master(auxiliar) |
+| 2023123TADS0015 | Maithe Vitoria    |Aúdio visual             |
+| 2023123TADS0041 | Pedro Barroso     |Designer, Desenvolvedor 1|
+| 2023123TADS0003 | Valdemiro         |Designer, Desenvolvedor 2|
+| 2023123TADS0037 | Yara Beatriz      | Arquiteta               |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
