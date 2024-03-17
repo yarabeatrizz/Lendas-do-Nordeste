@@ -10,10 +10,14 @@
 
 ## Equipe de Desenvolvimento
 
-| Matrícula   | Aluno             | Função| 
-|-------------|-------------------|-------|
-| xx/xxxxxx   | xxxx xxxx xxxxx  |xxxxxxx|
-| xx/xxxxxx   | xxxx xxxx xxxxx  |xxxxxx|
+| Matrícula       | Aluno             | Função| 
+|-----------------|-------------------|-------|
+| 2023123TADS0037 | Ana Luiza         |xxxxxxx|
+| 2023123TADS0037 | Esmeralda         |xxxxxxx|
+| 2023123TADS0037 | Maithe Vitoria    |xxxxxxx|
+| 2023123TADS0037 | Pedro Barroso     |xxxxxxx|
+| 2023123TADS0037 | Valdemiro         |xxxxxxx|
+| 2023123TADS0037 | Yara Beatriz      |xxxxxx |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
