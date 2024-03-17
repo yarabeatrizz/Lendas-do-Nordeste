@@ -12,18 +12,18 @@
 
 | Matrícula       | Aluno             | Função                  | 
 |-----------------|-------------------|-------------------------|
-| 2023123TADS0040 | Ana Luiza         |      Product Master     |
-| 2023123TADS0005 | Esmeralda         | Product Master(auxiliar)|
-| 2023123TADS0015 | Maithe Vitoria    |       Áudio visual      |
-| 2023123TADS0041 | Pedro Barroso     |Designer; Desenvolvedor 1|
-| 2023123TADS0003 | Valdemiro         |Designer; Desenvolvedor 2|
-| 2023123TADS0037 | Yara Beatriz      | |
+| 2023123TADS0040 |     Ana Luiza     |      Product Master     |
+| 2023123TADS0005 |     Esmeralda     | Product Master(auxiliar)|
+| 2023123TADS0015 |   Maithe Vitoria  |       Áudio visual      |
+| 2023123TADS0041 |   Pedro Barroso   |Designer; Desenvolvedor 1|
+| 2023123TADS0003 |     Valdemiro     |Designer; Desenvolvedor 2|
+| 2023123TADS0037 |   Yara Beatriz    |      Document Writer    |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
 
 ## Objetivos do Projeto
-Defina claramente os objetivos que você espera alcançar com o desenvolvimento do jogo. Isso pode incluir metas de mercado, experiência do usuário ou características específicas do jogo.
+Regastar Maria Bonita e restaurar o sossego derrotando todas as lendas
 
 ## Principal(is) Metodologia(s) Adotada(s)
 - Exemplo.: Scrum
