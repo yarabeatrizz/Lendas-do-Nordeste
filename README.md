@@ -40,11 +40,11 @@ Explicação breve sobre como a metodologia Scrum está sendo aplicada no desenv
 - MKDOCS
 
 ## Cronograma de Desenvolvimento
-|**SPRINT 0**                | **SPRINT 1**                      | **SPRINT 2**             | **SPRINT 3**       | **SPRINT 4**       | **ENTREGA**                     |
-|----------------------------|-----------------------------------|--------------------------|--------------------|--------------------|---------------------------------|
-|Tema do jogo                |Roteiro                            |Backgrounds(imagens/tiles)|Implementação part.1|Implementação part.2|Descrições/demostração           |
-|Objetivos(geral, especifico)|Sprites(imagens/personagens/objetos|                          |                    |                    |Criterios(documentação/feedbacks)|
-|Historia                    |                                   |                          |                    |                    |Lancamento no III Opala Tec      |
+|**SPRINT 0**                | **SPRINT 1**                       | **SPRINT 2**             | **SPRINT 3**       | **SPRINT 4**       | **ENTREGA**                     |
+|----------------------------|------------------------------------|--------------------------|--------------------|--------------------|---------------------------------|
+|Tema do jogo                |Roteiro                             |Backgrounds(imagens/tiles)|Implementação part.1|Implementação part.2|Descrições/demostração           |
+|Objetivos(geral, especifico)|Sprites(imagens/personagens/objetos)|                          |                    |                    |Criterios(documentação/feedbacks)|
+|Historia                    |                                    |                          |                    |                    |Lancamento no III Opala Tec      |
 
 ## Recursos Necessários
 Liste os recursos necessários para o desenvolvimento, incluindo recursos humanos, materiais, financeiros, etc.
