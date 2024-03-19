@@ -29,7 +29,7 @@ Uma descrição concisa do jogo, destacando sua proposta única e os principais 
 - Pegar os itens coletaveis
 
 ## Principal(is) Metodologia(s) Adotada(s)
-- Exemplo.: Scrum
+- Scrum
 
 ## Metodologia Scrum
 Explicação breve sobre como a metodologia Scrum está sendo aplicada no desenvolvimento do jogo. Isso pode incluir detalhes sobre sprints, reuniões diárias, revisões de sprint, etc.
@@ -53,7 +53,7 @@ Liste os recursos necessários para o desenvolvimento, incluindo recursos humano
 Identifique desafios que você antecipa ao longo do desenvolvimento e como planeja enfrentá-los.
 
 ## O Projeto está rodando?
-( ) SIM (x) NÃO
+(x) SIM () NÃO
 
 ## Screenshots
 ![Screenshot 1](URL_da_Imagem_1)
