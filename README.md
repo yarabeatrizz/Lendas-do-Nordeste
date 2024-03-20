@@ -17,7 +17,7 @@
  |![Screenshot 1](URL_da_Imagem_4)| 2023123TADS0015 | Maithe Vitoria    | Sound Designer           |
  |![Screenshot 1](URL_da_Imagem_5)| 2023123TADS0041 | Pedro Barroso     | Designer; Desenvolvedor 1|
  |![Screenshot 1](URL_da_Imagem_6)| 2023123TADS0003 | Valdemiro         | Designer; Desenvolvedor 2|
- |![Screenshot 1](IMG_20240223_171523_746.jpg)| 2023123TADS0037 | Yara Beatriz      | Arquiteta                |
+ |![Screenshot 1](URL_da_Imagem_7)| 2023123TADS0037 | Yara Beatriz      | Arquiteta                |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
