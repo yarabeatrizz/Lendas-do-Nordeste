@@ -17,7 +17,7 @@
 | 2023123TADS0015 | Maithe Vitoria    | Sound Designer           |
 | 2023123TADS0041 | Pedro Barroso     | Designer; Desenvolvedor 1|
 | 2023123TADS0003 | Valdemiro         | Designer; Desenvolvedor 2|
-| 2023123TADS0037 | Yara Beatriz      | Document Writer          |
+| 2023123TADS0037 | Yara Beatriz      | Arquiteta                |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
