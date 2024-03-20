@@ -10,14 +10,14 @@
 
 ## Equipe de Desenvolvimento
 
-| Matrícula       | Aluno             | Função                   | 
-|-----------------|-------------------|--------------------------|
-| 2023123TADS0040 | Ana Luiza         | Product Master           |
-| 2023123TADS0005 | Esmeralda         | Product Master(auxiliar) |
-| 2023123TADS0015 | Maithe Vitoria    | Sound Designer           |
-| 2023123TADS0041 | Pedro Barroso     | Designer; Desenvolvedor 1|
-| 2023123TADS0003 | Valdemiro         | Designer; Desenvolvedor 2|
-| 2023123TADS0037 | Yara Beatriz      | Arquiteta                |
+ |              Icons             | Matrícula       | Aluno             | Função                   | 
+ |![Screenshot 1](URL_da_Imagem_1)|-----------------|-------------------|--------------------------|
+ |![Screenshot 1](URL_da_Imagem_2)| 2023123TADS0040 | Ana Luiza         | Product Master           |
+ |![Screenshot 1](URL_da_Imagem_3)| 2023123TADS0005 | Esmeralda         | Product Master(auxiliar) |
+ |![Screenshot 1](URL_da_Imagem_4)| 2023123TADS0015 | Maithe Vitoria    | Sound Designer           |
+ |![Screenshot 1](URL_da_Imagem_5)| 2023123TADS0041 | Pedro Barroso     | Designer; Desenvolvedor 1|
+ |![Screenshot 1](URL_da_Imagem_6)| 2023123TADS0003 | Valdemiro         | Designer; Desenvolvedor 2|
+ |![Screenshot 1](IMG_20240223_171523_746.jpg)| 2023123TADS0037 | Yara Beatriz      | Arquiteta                |
 
 ## Visão Geral do Projeto
 Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
