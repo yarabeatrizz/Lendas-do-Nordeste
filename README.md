@@ -20,7 +20,7 @@
 | 2023123TADS0037 | Yara Beatriz      | Arquiteta                |
 
 ## Visão Geral do Projeto
-Uma descrição concisa do jogo, destacando sua proposta única e os principais aspectos que o diferenciam.
+"Lendas do Nordeste" é um jogo de aventura e ação ambientados em um formato inspirado no estilo literário do cordel. Nele, os jogadorespoderão assumir o papel de Lampião, o Rei do Cangaço. Em missão de reasgatar Maria Bonita, sua amada, das garras das grandes lendas do folclore da cidade de Pedro II - Piauí. O jogo se desenvolve em uma vasta e árida paisagem da caatinga, repleta de perigos e criaturas landárias. O jogo oferece encontros com criaturas lendárias e astutas  que habitam a região de Pedro II, além das lendas masi conhecidas do folclore brasileiro, como o Boitatá.  Ao longo da jornada, os jogadores encontrarão persongens icônicos, como -(EXEMPLO: SEREIA), que podem causar dano a Lampião em sua missâo. Os jogadores munidos com objetos de ajuda, como trajes de couro, café revigorante, pimenta e pistolas para defender-se e, ainda, contará com ajuda de jumentos ágeis e do famoso cuzcuz nordestino, sustento vital durante a missão. Os jogadores munidos 
 
 ## Objetivos do Projeto
 - Regastar Maria Bonita e restaurar o sossego derrotando todas as lendas(principal)
@@ -38,6 +38,8 @@ Explicação breve sobre como a metodologia Scrum está sendo aplicada no desenv
 - Trello
 - Construct 3
 - MKDOCS
+- NOTION
+- Git,GitHub
 
 ## Cronograma de Desenvolvimento
 |**SPRINT 0**                | **SPRINT 1**                        | **SPRINT 2**             | **SPRINT 3**       | **SPRINT 4**       | **ENTREGA**                      |
